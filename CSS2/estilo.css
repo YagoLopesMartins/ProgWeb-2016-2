@@ -1,0 +1,23 @@
+@charset "UTF-8";
+
+body{
+    background-color: aqua;
+}
+
+div#corpo-pincipal{
+    width: 1000px;
+    margin: -20px 100px 0px -20px;
+    background: url("../CSS2/imagens/manaus-cidade.jpg") no-repeat;
+}
+
+div#caixa-de-texto{
+    margin: 100px;
+    background-color: black;
+}
+div#caixa-de-texto-interno{
+    position: relative;
+    margin: 20px;
+    border: medium solid black;
+    box-shadow: 4px 4px 10px 2px gray;
+
+}
