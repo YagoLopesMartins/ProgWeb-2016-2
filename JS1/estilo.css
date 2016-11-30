@@ -1,1 +1,12 @@
 @charset "UTF-8";
+
+table{
+    float: left;
+    margin: 50px;
+}
+td{
+    text-align: center;
+}
+spam{
+
+}
