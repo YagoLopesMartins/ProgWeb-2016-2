@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <title>Conversor</title>
+</head>
+<body>
+    <form name="myForm"  action="">
+        Informe o raio<input type="text" name="raio" id="raioID" >
+        <input type="button" name="myButton" value="OK" ><br/>
+        Área do circulo<input type="text" id="areaID" readonly><br/>
+        Circunferência<input type="text" id="circunferenciaID" readonly>
+    </form>
+
+    <script>
+        botao = document.myForm.myButton;
+        botao.onclick = function () {
+            calc_circunferencia();
+            areaCirculo();
+        }
+        function calc_circunferencia() {
+            var raio = parseInt(document.getElementById('raioID').value);
+                circunferencia = 2 * Math.PI * raio;
+            document.getElementById('circunferenciaID').value = circunferencia.toFixed(2);
+        }
+        function areaCirculo() {
+            var raio = parseInt(document.getElementById('raioID').value);
+                area = Math.PI * (raio * raio);
+            document.getElementById('areaID').value = area.toFixed(2);
+        }
+    </script>
+</body>
+</html>
