@@ -1,0 +1,18 @@
+linha 02 - Comentários no HTML5. Precisa-se usar a tag <!-- -->,
+        ficando:<!-- Página do Instituto de Computação-->
+
+linha 04 - titulo da pagina na área Head. A área head é o local onde põe-se
+        informações indicando o cabeçalho do documento html, algumas dessas informações são: título da página,
+         descrições, pavalras chaves, autor, e linguagem de encoding na tag <meta>, no caso do idioma Português,
+         precisou-se usar o UTF-8 como no enunciado.
+
+linha 08 - Referencia dos conteúdos dos atributos da tag img. Para referenciar os valores dos atributos,
+usa-se aspas duplas e não aspas simples como no exemplo. Ficando por exemplo: src="img/icomp.png", width="260"
+e assim por diante.
+
+linha 10 - Fechamento da TAG strong. No html5 algumas tags não precisam da tag de fechamento, como exemplo o
+<br>, mas a tag <strong> necessita ser fechada. Portanto o correto seria fechá-la, ficando com
+o resultado final assim: <strong>Instituto de Computação (ICOMP)</strong>, caso quisesse destacar o nome
+do isntituto.
+
+
