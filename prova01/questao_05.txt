@@ -1,0 +1,107 @@
+yago@yago-H14CU01:~/progWeb-2016-2/prova01$ git log
+commit 956f6c53d1dcba5c025bf7f0f26cf1c55d1bedf5
+Author: Yago LM <yagolopes777@hotmail.com>
+Date:   Wed Dec 14 17:27:00 2016 -0400
+
+    Ainda não finalizado - teste
+
+commit 1a3ffe2f605f66ae228452dc839cef55030148fa
+Author: Yago LM <yagolopes777@hotmail.com>
+Date:   Wed Dec 14 16:28:46 2016 -0400
+
+    Questão 01
+
+commit fae1db94078ef13519f6263f79e9454dce7ef87a
+Author: Yago LM <yagolopes777@hotmail.com>
+Date:   Fri Dec 9 19:10:23 2016 -0400
+
+    JS2
+
+commit 7dcafe9bc99c4dfe04e365082638f77e0de2c4f4
+Author: Yago LM <yagolopes777@hotmail.com>
+Date:   Wed Nov 30 16:37:47 2016 -0400
+
+    JS1
+:...skipping...
+commit 956f6c53d1dcba5c025bf7f0f26cf1c55d1bedf5
+Author: Yago LM <yagolopes777@hotmail.com>
+Date:   Wed Dec 14 17:27:00 2016 -0400
+
+    Ainda não finalizado - teste
+
+commit 1a3ffe2f605f66ae228452dc839cef55030148fa
+Author: Yago LM <yagolopes777@hotmail.com>
+Date:   Wed Dec 14 16:28:46 2016 -0400
+
+    Questão 01
+
+commit fae1db94078ef13519f6263f79e9454dce7ef87a
+Author: Yago LM <yagolopes777@hotmail.com>
+Date:   Fri Dec 9 19:10:23 2016 -0400
+
+    JS2
+
+commit 7dcafe9bc99c4dfe04e365082638f77e0de2c4f4
+Author: Yago LM <yagolopes777@hotmail.com>
+Date:   Wed Nov 30 16:37:47 2016 -0400
+
+    JS1
+
+:...skipping...
+commit 956f6c53d1dcba5c025bf7f0f26cf1c55d1bedf5
+Author: Yago LM <yagolopes777@hotmail.com>
+Date:   Wed Dec 14 17:27:00 2016 -0400
+
+    Ainda não finalizado - teste
+
+commit 1a3ffe2f605f66ae228452dc839cef55030148fa
+Author: Yago LM <yagolopes777@hotmail.com>
+Date:   Wed Dec 14 16:28:46 2016 -0400
+
+    Questão 01
+
+commit fae1db94078ef13519f6263f79e9454dce7ef87a
+Author: Yago LM <yagolopes777@hotmail.com>
+Date:   Fri Dec 9 19:10:23 2016 -0400
+
+    JS2
+
+commit 7dcafe9bc99c4dfe04e365082638f77e0de2c4f4
+Author: Yago LM <yagolopes777@hotmail.com>
+Date:   Wed Nov 30 16:37:47 2016 -0400
+
+    JS1
+
+commit fb511a97910686b284c1f4cdd0164efa3e19d4f5
+Author: Yago LM <yagolopes777@hotmail.com>
+Date:   Wed Nov 30 16:09:09 2016 -0400
+
+    JS1
+
+commit afaf91bd2410f67841f11f08d483500039a582ef
+Author: Yago LM <yagolopes777@hotmail.com>
+Date:   Wed Nov 23 17:22:37 2016 -0400
+
+    CSS1 e CSS2
+
+commit d32155978548ed1ef9de4fae76778451ed31f61b
+Author: Yago LM <yagolopes777@hotmail.com>
+Date:   Wed Nov 23 17:19:51 2016 -0400
+
+    new version
+
+:
+
+a) É a sequência/estágios do núcleo do git.
+O git trabalha com o controle de versões, para usá-lo é preciso seguir alguns passos. O primeiro é quando
+após a criação do repositório local e aṕos o start usando o git init do repositório, o git começa a controlar
+os arquivos no diretório que no caso é o working directory, ou seja, todas as modificações que ocorrem o git
+irá saber, porém o git ainda não salvará nada dos arquivos modificados nessa etapa. Para que o seus arquivos
+sejam salvos é preciso selecioná-los que no caso para o git é o modo/estado index, ou seja, todas as modificações
+num determinado arquivo do diretório serão selecionados para lista de espera de armazenamento, assim o git
+entenderá que no proxímo commit que é o passo final dos estados do git, ou seja, nesse estado o(os) arquivos serão
+selecionados de fato serão salvos/armazenados.
+Portanto, working directory,index e repository são estados que o git utiliza para o controle de versões.
+working directory seria o lugar das modificações no arquivo;
+index seria o lugar dos arquivos selecionados;
+repository seria o estado final para o armazenamento dos arquivos.
