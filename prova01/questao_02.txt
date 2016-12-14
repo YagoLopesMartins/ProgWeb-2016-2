@@ -1,0 +1,5 @@
+1ª Forma:  [title*="css"]{ }
+
+2ª Forma:  p > .cl1 { }
+
+3ª Forma: p > span { }
