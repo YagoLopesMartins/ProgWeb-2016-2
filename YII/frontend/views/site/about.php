@@ -12,10 +12,9 @@ $this->params['breadcrumbs'][] = $this->title;
 
     <p>This is the About page. You may modify the following file to customize its content:</p>
 
-    <p>Yago</p>
-
-    <p><?= $icomp ?></p>
-    <!--<p><?= $data ?></p>-->
+    <p>Olá, <b>Yago L. Martins</b>. Seja bem-vindo!</p>
+    <p><b>Nome da Instituição</b>: <?= $icomp ?></p>
+    <p><b>Data de hoje</b>: <?= $data ?></p>
 
     <code><?= __FILE__ ?></code>
 </div>

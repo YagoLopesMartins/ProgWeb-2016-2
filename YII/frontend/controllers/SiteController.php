@@ -140,8 +140,9 @@ class SiteController extends Controller
     public function actionAbout()
     {
         $icomp = "Instituto de Computação";
-
-        $data = new date();
+        #locale_set_default('Manaus');
+        date_default_timezone_set('America/Manaus');
+        $data = date('d/m/Y H:i');
 
         return $this->render('about',[
             'icomp' => $icomp,
