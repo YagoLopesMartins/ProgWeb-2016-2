@@ -3,3 +3,6 @@
 2ª Forma:  p > .cl1 { }
 
 3ª Forma: p > span { }
+
+Nota: 2.0
+Todos os seletores foram escolhidos corretamente.

@@ -15,4 +15,5 @@ linha 10 - Fechamento da TAG strong. No html5 algumas tags não precisam da tag 
 o resultado final assim: <strong>Instituto de Computação (ICOMP)</strong>, caso quisesse destacar o nome
 do isntituto.
 
-
+Nota: 1.5
+O erro da linha 08 não existe. 
