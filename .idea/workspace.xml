@@ -2,10 +2,192 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2f7f17db-c582-4223-811a-169822eadba2" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/copyright/profiles_settings.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PHP2/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PHP2/processaPDO.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/CSS2/imagens/manaus-cidade.jpg" afterPath="$PROJECT_DIR$/CSS2/imagens/manaus-cidade.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/HTML1/html5_logo.png" afterPath="$PROJECT_DIR$/HTML1/html5_logo.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/YII/backend/web/favicon.ico" afterPath="$PROJECT_DIR$/YII/backend/web/favicon.ico" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/YII/console/controllers/.gitkeep" afterPath="$PROJECT_DIR$/YII/console/controllers/.gitkeep" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/YII/frontend/web/favicon.ico" afterPath="$PROJECT_DIR$/YII/frontend/web/favicon.ico" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/copyright/profiles_settings.xml" afterPath="$PROJECT_DIR$/.idea/copyright/profiles_settings.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/modules.xml" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/progWeb-2016-2.iml" afterPath="$PROJECT_DIR$/.idea/progWeb-2016-2.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/vcs.xml" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/CSS1/estilo.css" afterPath="$PROJECT_DIR$/CSS1/estilo.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/CSS1/index.html" afterPath="$PROJECT_DIR$/CSS1/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/CSS2/estilo.css" afterPath="$PROJECT_DIR$/CSS2/estilo.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/CSS2/index.html" afterPath="$PROJECT_DIR$/CSS2/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/CSS3/estilo.css" afterPath="$PROJECT_DIR$/CSS3/estilo.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/CSS3/index.html" afterPath="$PROJECT_DIR$/CSS3/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/HTML1/app.css" afterPath="$PROJECT_DIR$/HTML1/app.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/HTML1/tabela_html_1.html" afterPath="$PROJECT_DIR$/HTML1/tabela_html_1.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/HTML2/formulario_html_2.html" afterPath="$PROJECT_DIR$/HTML2/formulario_html_2.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/JS1/estilo.css" afterPath="$PROJECT_DIR$/JS1/estilo.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/JS1/funcoes.js" afterPath="$PROJECT_DIR$/JS1/funcoes.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/JS1/index.html" afterPath="$PROJECT_DIR$/JS1/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/JS3/index.html" afterPath="$PROJECT_DIR$/JS3/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/JS3/script.js" afterPath="$PROJECT_DIR$/JS3/script.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/PHP3/index.html" afterPath="$PROJECT_DIR$/PHP3/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/README.md" afterPath="$PROJECT_DIR$/README.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/YII/.bowerrc" afterPath="$PROJECT_DIR$/YII/.bowerrc" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/YII/.gitignore" afterPath="$PROJECT_DIR$/YII/.gitignore" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/YII/LICENSE.md" afterPath="$PROJECT_DIR$/YII/LICENSE.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/YII/README.md" afterPath="$PROJECT_DIR$/YII/README.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/YII/Vagrantfile" afterPath="$PROJECT_DIR$/YII/Vagrantfile" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/YII/backend/assets/AppAsset.php" afterPath="$PROJECT_DIR$/YII/backend/assets/AppAsset.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/YII/backend/codeception.yml" afterPath="$PROJECT_DIR$/YII/backend/codeception.yml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/YII/backend/config/.gitignore" afterPath="$PROJECT_DIR$/YII/backend/config/.gitignore" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/YII/backend/config/bootstrap.php" afterPath="$PROJECT_DIR$/YII/backend/config/bootstrap.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/YII/backend/config/main.php" afterPath="$PROJECT_DIR$/YII/backend/config/main.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/YII/backend/config/params.php" afterPath="$PROJECT_DIR$/YII/backend/config/params.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/YII/backend/config/test.php" afterPath="$PROJECT_DIR$/YII/backend/config/test.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/YII/backend/controllers/SiteController.php" afterPath="$PROJECT_DIR$/YII/backend/controllers/SiteController.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/YII/backend/models/.gitkeep" afterPath="$PROJECT_DIR$/YII/backend/models/.gitkeep" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/YII/backend/runtime/.gitignore" afterPath="$PROJECT_DIR$/YII/backend/runtime/.gitignore" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/YII/backend/tests/_bootstrap.php" afterPath="$PROJECT_DIR$/YII/backend/tests/_bootstrap.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/YII/backend/tests/_data/.gitignore" afterPath="$PROJECT_DIR$/YII/backend/tests/_data/.gitignore" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/YII/backend/tests/_data/login_data.php" afterPath="$PROJECT_DIR$/YII/backend/tests/_data/login_data.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/YII/backend/tests/_output/.gitignore" afterPath="$PROJECT_DIR$/YII/backend/tests/_output/.gitignore" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/YII/backend/tests/_support/.gitignore" afterPath="$PROJECT_DIR$/YII/backend/tests/_support/.gitignore" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/YII/backend/tests/_support/FunctionalTester.php" afterPath="$PROJECT_DIR$/YII/backend/tests/_support/FunctionalTester.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/YII/backend/tests/_support/UnitTester.php" afterPath="$PROJECT_DIR$/YII/backend/tests/_support/UnitTester.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/YII/backend/tests/functional.suite.yml" afterPath="$PROJECT_DIR$/YII/backend/tests/functional.suite.yml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/YII/backend/tests/functional/LoginCest.php" afterPath="$PROJECT_DIR$/YII/backend/tests/functional/LoginCest.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/YII/backend/tests/functional/_bootstrap.php" afterPath="$PROJECT_DIR$/YII/backend/tests/functional/_bootstrap.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/YII/backend/tests/unit.suite.yml" afterPath="$PROJECT_DIR$/YII/backend/tests/unit.suite.yml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/YII/backend/tests/unit/_bootstrap.php" afterPath="$PROJECT_DIR$/YII/backend/tests/unit/_bootstrap.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/YII/backend/views/layouts/main.php" afterPath="$PROJECT_DIR$/YII/backend/views/layouts/main.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/YII/backend/views/site/error.php" afterPath="$PROJECT_DIR$/YII/backend/views/site/error.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/YII/backend/views/site/index.php" afterPath="$PROJECT_DIR$/YII/backend/views/site/index.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/YII/backend/views/site/login.php" afterPath="$PROJECT_DIR$/YII/backend/views/site/login.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/YII/backend/web/.gitignore" afterPath="$PROJECT_DIR$/YII/backend/web/.gitignore" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/YII/backend/web/assets/.gitignore" afterPath="$PROJECT_DIR$/YII/backend/web/assets/.gitignore" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/YII/backend/web/css/site.css" afterPath="$PROJECT_DIR$/YII/backend/web/css/site.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/YII/backend/web/robots.txt" afterPath="$PROJECT_DIR$/YII/backend/web/robots.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/YII/codeception.yml" afterPath="$PROJECT_DIR$/YII/codeception.yml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/YII/common/codeception.yml" afterPath="$PROJECT_DIR$/YII/common/codeception.yml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/YII/common/config/.gitignore" afterPath="$PROJECT_DIR$/YII/common/config/.gitignore" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/YII/common/config/bootstrap.php" afterPath="$PROJECT_DIR$/YII/common/config/bootstrap.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/YII/common/config/main.php" afterPath="$PROJECT_DIR$/YII/common/config/main.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/YII/common/config/params.php" afterPath="$PROJECT_DIR$/YII/common/config/params.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/YII/common/config/test.php" afterPath="$PROJECT_DIR$/YII/common/config/test.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/YII/common/fixtures/User.php" afterPath="$PROJECT_DIR$/YII/common/fixtures/User.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/YII/common/mail/layouts/html.php" afterPath="$PROJECT_DIR$/YII/common/mail/layouts/html.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/YII/common/mail/layouts/text.php" afterPath="$PROJECT_DIR$/YII/common/mail/layouts/text.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/YII/common/mail/passwordResetToken-html.php" afterPath="$PROJECT_DIR$/YII/common/mail/passwordResetToken-html.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/YII/common/mail/passwordResetToken-text.php" afterPath="$PROJECT_DIR$/YII/common/mail/passwordResetToken-text.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/YII/common/models/LoginForm.php" afterPath="$PROJECT_DIR$/YII/common/models/LoginForm.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/YII/common/models/User.php" afterPath="$PROJECT_DIR$/YII/common/models/User.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/YII/common/tests/_bootstrap.php" afterPath="$PROJECT_DIR$/YII/common/tests/_bootstrap.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/YII/common/tests/_data/user.php" afterPath="$PROJECT_DIR$/YII/common/tests/_data/user.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/YII/common/tests/_output/.gitignore" afterPath="$PROJECT_DIR$/YII/common/tests/_output/.gitignore" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/YII/common/tests/_support/.gitignore" afterPath="$PROJECT_DIR$/YII/common/tests/_support/.gitignore" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/YII/common/tests/_support/UnitTester.php" afterPath="$PROJECT_DIR$/YII/common/tests/_support/UnitTester.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/YII/common/tests/unit.suite.yml" afterPath="$PROJECT_DIR$/YII/common/tests/unit.suite.yml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/YII/common/tests/unit/models/LoginFormTest.php" afterPath="$PROJECT_DIR$/YII/common/tests/unit/models/LoginFormTest.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/YII/common/widgets/Alert.php" afterPath="$PROJECT_DIR$/YII/common/widgets/Alert.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/YII/composer.json" afterPath="$PROJECT_DIR$/YII/composer.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/YII/composer.lock" afterPath="$PROJECT_DIR$/YII/composer.lock" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/YII/console/config/.gitignore" afterPath="$PROJECT_DIR$/YII/console/config/.gitignore" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/YII/console/config/bootstrap.php" afterPath="$PROJECT_DIR$/YII/console/config/bootstrap.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/YII/console/config/main.php" afterPath="$PROJECT_DIR$/YII/console/config/main.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/YII/console/config/params.php" afterPath="$PROJECT_DIR$/YII/console/config/params.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/YII/console/migrations/m130524_201442_init.php" afterPath="$PROJECT_DIR$/YII/console/migrations/m130524_201442_init.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/YII/console/models/.gitkeep" afterPath="$PROJECT_DIR$/YII/console/models/.gitkeep" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/YII/console/runtime/.gitignore" afterPath="$PROJECT_DIR$/YII/console/runtime/.gitignore" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/YII/environments/dev/backend/config/main-local.php" afterPath="$PROJECT_DIR$/YII/environments/dev/backend/config/main-local.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/YII/environments/dev/backend/config/params-local.php" afterPath="$PROJECT_DIR$/YII/environments/dev/backend/config/params-local.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/YII/environments/dev/backend/config/test-local.php" afterPath="$PROJECT_DIR$/YII/environments/dev/backend/config/test-local.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/YII/environments/dev/backend/web/index-test.php" afterPath="$PROJECT_DIR$/YII/environments/dev/backend/web/index-test.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/YII/environments/dev/backend/web/index.php" afterPath="$PROJECT_DIR$/YII/environments/dev/backend/web/index.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/YII/environments/dev/common/config/main-local.php" afterPath="$PROJECT_DIR$/YII/environments/dev/common/config/main-local.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/YII/environments/dev/common/config/params-local.php" afterPath="$PROJECT_DIR$/YII/environments/dev/common/config/params-local.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/YII/environments/dev/common/config/test-local.php" afterPath="$PROJECT_DIR$/YII/environments/dev/common/config/test-local.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/YII/environments/dev/console/config/main-local.php" afterPath="$PROJECT_DIR$/YII/environments/dev/console/config/main-local.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/YII/environments/dev/console/config/params-local.php" afterPath="$PROJECT_DIR$/YII/environments/dev/console/config/params-local.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/YII/environments/dev/frontend/config/main-local.php" afterPath="$PROJECT_DIR$/YII/environments/dev/frontend/config/main-local.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/YII/environments/dev/frontend/config/params-local.php" afterPath="$PROJECT_DIR$/YII/environments/dev/frontend/config/params-local.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/YII/environments/dev/frontend/config/test-local.php" afterPath="$PROJECT_DIR$/YII/environments/dev/frontend/config/test-local.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/YII/environments/dev/frontend/web/index-test.php" afterPath="$PROJECT_DIR$/YII/environments/dev/frontend/web/index-test.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/YII/environments/dev/frontend/web/index.php" afterPath="$PROJECT_DIR$/YII/environments/dev/frontend/web/index.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/YII/environments/dev/yii" afterPath="$PROJECT_DIR$/YII/environments/dev/yii" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/YII/environments/dev/yii_test" afterPath="$PROJECT_DIR$/YII/environments/dev/yii_test" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/YII/environments/dev/yii_test.bat" afterPath="$PROJECT_DIR$/YII/environments/dev/yii_test.bat" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/YII/environments/index.php" afterPath="$PROJECT_DIR$/YII/environments/index.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/YII/environments/prod/backend/config/main-local.php" afterPath="$PROJECT_DIR$/YII/environments/prod/backend/config/main-local.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/YII/environments/prod/backend/config/params-local.php" afterPath="$PROJECT_DIR$/YII/environments/prod/backend/config/params-local.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/YII/environments/prod/backend/web/index.php" afterPath="$PROJECT_DIR$/YII/environments/prod/backend/web/index.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/YII/environments/prod/common/config/main-local.php" afterPath="$PROJECT_DIR$/YII/environments/prod/common/config/main-local.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/YII/environments/prod/common/config/params-local.php" afterPath="$PROJECT_DIR$/YII/environments/prod/common/config/params-local.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/YII/environments/prod/console/config/main-local.php" afterPath="$PROJECT_DIR$/YII/environments/prod/console/config/main-local.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/YII/environments/prod/console/config/params-local.php" afterPath="$PROJECT_DIR$/YII/environments/prod/console/config/params-local.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/YII/environments/prod/frontend/config/main-local.php" afterPath="$PROJECT_DIR$/YII/environments/prod/frontend/config/main-local.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/YII/environments/prod/frontend/config/params-local.php" afterPath="$PROJECT_DIR$/YII/environments/prod/frontend/config/params-local.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/YII/environments/prod/frontend/web/index.php" afterPath="$PROJECT_DIR$/YII/environments/prod/frontend/web/index.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/YII/environments/prod/yii" afterPath="$PROJECT_DIR$/YII/environments/prod/yii" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/YII/frontend/assets/AppAsset.php" afterPath="$PROJECT_DIR$/YII/frontend/assets/AppAsset.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/YII/frontend/codeception.yml" afterPath="$PROJECT_DIR$/YII/frontend/codeception.yml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/YII/frontend/config/.gitignore" afterPath="$PROJECT_DIR$/YII/frontend/config/.gitignore" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/YII/frontend/config/bootstrap.php" afterPath="$PROJECT_DIR$/YII/frontend/config/bootstrap.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/YII/frontend/config/main.php" afterPath="$PROJECT_DIR$/YII/frontend/config/main.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/YII/frontend/config/params.php" afterPath="$PROJECT_DIR$/YII/frontend/config/params.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/YII/frontend/config/test.php" afterPath="$PROJECT_DIR$/YII/frontend/config/test.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/YII/frontend/controllers/SiteController.php" afterPath="$PROJECT_DIR$/YII/frontend/controllers/SiteController.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/YII/frontend/models/ContactForm.php" afterPath="$PROJECT_DIR$/YII/frontend/models/ContactForm.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/YII/frontend/models/PasswordResetRequestForm.php" afterPath="$PROJECT_DIR$/YII/frontend/models/PasswordResetRequestForm.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/YII/frontend/models/ResetPasswordForm.php" afterPath="$PROJECT_DIR$/YII/frontend/models/ResetPasswordForm.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/YII/frontend/models/SignupForm.php" afterPath="$PROJECT_DIR$/YII/frontend/models/SignupForm.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/YII/frontend/runtime/.gitignore" afterPath="$PROJECT_DIR$/YII/frontend/runtime/.gitignore" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/YII/frontend/tests/_bootstrap.php" afterPath="$PROJECT_DIR$/YII/frontend/tests/_bootstrap.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/YII/frontend/tests/_data/login_data.php" afterPath="$PROJECT_DIR$/YII/frontend/tests/_data/login_data.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/YII/frontend/tests/_data/user.php" afterPath="$PROJECT_DIR$/YII/frontend/tests/_data/user.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/YII/frontend/tests/_output/.gitignore" afterPath="$PROJECT_DIR$/YII/frontend/tests/_output/.gitignore" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/YII/frontend/tests/_support/.gitignore" afterPath="$PROJECT_DIR$/YII/frontend/tests/_support/.gitignore" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/YII/frontend/tests/_support/FunctionalTester.php" afterPath="$PROJECT_DIR$/YII/frontend/tests/_support/FunctionalTester.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/YII/frontend/tests/_support/UnitTester.php" afterPath="$PROJECT_DIR$/YII/frontend/tests/_support/UnitTester.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/YII/frontend/tests/acceptance.suite.yml.example" afterPath="$PROJECT_DIR$/YII/frontend/tests/acceptance.suite.yml.example" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/YII/frontend/tests/acceptance/HomeCest.php" afterPath="$PROJECT_DIR$/YII/frontend/tests/acceptance/HomeCest.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/YII/frontend/tests/acceptance/_bootstrap.php" afterPath="$PROJECT_DIR$/YII/frontend/tests/acceptance/_bootstrap.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/YII/frontend/tests/functional.suite.yml" afterPath="$PROJECT_DIR$/YII/frontend/tests/functional.suite.yml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/YII/frontend/tests/functional/AboutCest.php" afterPath="$PROJECT_DIR$/YII/frontend/tests/functional/AboutCest.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/YII/frontend/tests/functional/ContactCest.php" afterPath="$PROJECT_DIR$/YII/frontend/tests/functional/ContactCest.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/YII/frontend/tests/functional/HomeCest.php" afterPath="$PROJECT_DIR$/YII/frontend/tests/functional/HomeCest.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/YII/frontend/tests/functional/LoginCest.php" afterPath="$PROJECT_DIR$/YII/frontend/tests/functional/LoginCest.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/YII/frontend/tests/functional/SignupCest.php" afterPath="$PROJECT_DIR$/YII/frontend/tests/functional/SignupCest.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/YII/frontend/tests/functional/_bootstrap.php" afterPath="$PROJECT_DIR$/YII/frontend/tests/functional/_bootstrap.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/YII/frontend/tests/unit.suite.yml" afterPath="$PROJECT_DIR$/YII/frontend/tests/unit.suite.yml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/YII/frontend/tests/unit/_bootstrap.php" afterPath="$PROJECT_DIR$/YII/frontend/tests/unit/_bootstrap.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/YII/frontend/tests/unit/models/ContactFormTest.php" afterPath="$PROJECT_DIR$/YII/frontend/tests/unit/models/ContactFormTest.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/YII/frontend/tests/unit/models/PasswordResetRequestFormTest.php" afterPath="$PROJECT_DIR$/YII/frontend/tests/unit/models/PasswordResetRequestFormTest.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/YII/frontend/tests/unit/models/ResetPasswordFormTest.php" afterPath="$PROJECT_DIR$/YII/frontend/tests/unit/models/ResetPasswordFormTest.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/YII/frontend/tests/unit/models/SignupFormTest.php" afterPath="$PROJECT_DIR$/YII/frontend/tests/unit/models/SignupFormTest.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/YII/frontend/views/layouts/main.php" afterPath="$PROJECT_DIR$/YII/frontend/views/layouts/main.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/YII/frontend/views/site/about.php" afterPath="$PROJECT_DIR$/YII/frontend/views/site/about.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/YII/frontend/views/site/contact.php" afterPath="$PROJECT_DIR$/YII/frontend/views/site/contact.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/YII/frontend/views/site/error.php" afterPath="$PROJECT_DIR$/YII/frontend/views/site/error.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/YII/frontend/views/site/index.php" afterPath="$PROJECT_DIR$/YII/frontend/views/site/index.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/YII/frontend/views/site/login.php" afterPath="$PROJECT_DIR$/YII/frontend/views/site/login.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/YII/frontend/views/site/requestPasswordResetToken.php" afterPath="$PROJECT_DIR$/YII/frontend/views/site/requestPasswordResetToken.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/YII/frontend/views/site/resetPassword.php" afterPath="$PROJECT_DIR$/YII/frontend/views/site/resetPassword.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/YII/frontend/views/site/signup.php" afterPath="$PROJECT_DIR$/YII/frontend/views/site/signup.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/YII/frontend/web/.gitignore" afterPath="$PROJECT_DIR$/YII/frontend/web/.gitignore" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/YII/frontend/web/assets/.gitignore" afterPath="$PROJECT_DIR$/YII/frontend/web/assets/.gitignore" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/YII/frontend/web/css/site.css" afterPath="$PROJECT_DIR$/YII/frontend/web/css/site.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/YII/frontend/web/robots.txt" afterPath="$PROJECT_DIR$/YII/frontend/web/robots.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/YII/init.bat" afterPath="$PROJECT_DIR$/YII/init.bat" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/YII/requirements.php" afterPath="$PROJECT_DIR$/YII/requirements.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/YII/vagrant/config/.gitignore" afterPath="$PROJECT_DIR$/YII/vagrant/config/.gitignore" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/YII/vagrant/config/vagrant-local.example.yml" afterPath="$PROJECT_DIR$/YII/vagrant/config/vagrant-local.example.yml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/YII/vagrant/nginx/app.conf" afterPath="$PROJECT_DIR$/YII/vagrant/nginx/app.conf" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/YII/vagrant/nginx/log/.gitignore" afterPath="$PROJECT_DIR$/YII/vagrant/nginx/log/.gitignore" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/YII/vagrant/provision/always-as-root.sh" afterPath="$PROJECT_DIR$/YII/vagrant/provision/always-as-root.sh" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/YII/vagrant/provision/once-as-root.sh" afterPath="$PROJECT_DIR$/YII/vagrant/provision/once-as-root.sh" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/YII/vagrant/provision/once-as-vagrant.sh" afterPath="$PROJECT_DIR$/YII/vagrant/provision/once-as-vagrant.sh" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/YII/yii.bat" afterPath="$PROJECT_DIR$/YII/yii.bat" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/prova01/questao_01.txt" afterPath="$PROJECT_DIR$/prova01/questao_01.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/prova01/questao_02.txt" afterPath="$PROJECT_DIR$/prova01/questao_02.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/prova01/questao_03.txt" afterPath="$PROJECT_DIR$/prova01/questao_03.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/prova01/questao_04.html" afterPath="$PROJECT_DIR$/prova01/questao_04.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/prova01/questao_05.txt" afterPath="$PROJECT_DIR$/prova01/questao_05.txt" />
     </list>
     <ignored path="progWeb-2016-2.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -28,18 +210,7 @@
     <favorites_list name="progWeb-2016-2" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/PHP2/index.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="184">
-              <caret line="10" column="33" lean-forward="false" selection-start-line="10" selection-start-column="33" selection-end-line="10" selection-end-column="33" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -111,21 +282,7 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="progWeb-2016-2" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="progWeb-2016-2" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="progWeb-2016-2" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="PHP2" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
             </PATH_ELEMENT>
           </PATH>
         </subPane>
@@ -135,7 +292,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="last_opened_file_path" value="/var/www" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../DNA" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="HbShouldOpenHtmlAsHb" value="" />
     <property name="js-jscs-nodeInterpreter" value="/usr/local/bin/node" />
@@ -156,18 +313,6 @@
     </key>
   </component>
   <component name="RunManager">
-    <configuration default="true" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application">
-      <method />
-    </configuration>
-    <configuration default="true" type="DartTestRunConfigurationType" factoryName="Dart Test">
-      <method />
-    </configuration>
-    <configuration default="true" type="JavaScriptTestRunnerKarma" factoryName="Karma">
-      <config-file value="" />
-      <node-interpreter value="project" />
-      <envs />
-      <method />
-    </configuration>
     <configuration default="true" type="JavaScriptTestRunnerProtractor" factoryName="Protractor">
       <config-file value="" />
       <node-interpreter value="project" />
@@ -178,12 +323,6 @@
       <method />
     </configuration>
     <configuration default="true" type="NodeJSConfigurationType" factoryName="Node.js" path-to-node="project" working-dir="">
-      <method />
-    </configuration>
-    <configuration default="true" type="cucumber.js" factoryName="Cucumber.js">
-      <option name="cucumberJsArguments" value="" />
-      <option name="executablePath" />
-      <option name="filePath" />
       <method />
     </configuration>
     <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
@@ -243,22 +382,26 @@
       <workItem from="1484227433808" duration="43000" />
       <workItem from="1484599887674" duration="1133000" />
       <workItem from="1484601961081" duration="325000" />
+      <workItem from="1485807121008" duration="66000" />
+      <workItem from="1485812221297" duration="429000" />
+      <workItem from="1485888316736" duration="59000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="28189000" />
+    <option name="totallyTimeSpent" value="28743000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="65" y="24" width="1301" height="744" extended-state="6" />
     <editor active="false" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2535211" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.26613545" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33436534" sideWeight="0.5031299" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.33436534" sideWeight="0.4968701" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.33436534" sideWeight="0.4968701" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -267,7 +410,6 @@
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
     </layout>
@@ -309,11 +451,10 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/PHP1/index.html">
+    <entry file="file://$PROJECT_DIR$/PHP2/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -321,7 +462,13 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PHP1/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
     </entry>
@@ -479,46 +626,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/prova01/questao_01.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="15" column="13" lean-forward="false" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/prova01/questao_02.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="72">
-          <caret line="4" column="18" lean-forward="false" selection-start-line="4" selection-start-column="18" selection-end-line="4" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/prova01/questao_03.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/prova01/questao_04.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="184">
-          <caret line="12" column="41" lean-forward="false" selection-start-line="12" selection-start-column="41" selection-end-line="12" selection-end-column="41" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/prova01/questao_05.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="242">
-          <caret line="93" column="0" lean-forward="false" selection-start-line="93" selection-start-column="0" selection-end-line="93" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/PHP1/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="315">
           <caret line="21" column="27" lean-forward="false" selection-start-line="21" selection-start-column="27" selection-end-line="21" selection-end-column="27" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -533,15 +644,58 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="436">
           <caret line="38" column="0" lean-forward="true" selection-start-line="38" selection-start-column="0" selection-end-line="38" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/PHP2/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="184">
+        <state relative-caret-position="180">
           <caret line="10" column="33" lean-forward="false" selection-start-line="10" selection-start-column="33" selection-end-line="10" selection-end-column="33" />
-          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/prova01/questao_05.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1674">
+          <caret line="93" column="0" lean-forward="false" selection-start-line="93" selection-start-column="0" selection-end-line="93" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="0">
+            <caret line="0" column="12" lean-forward="true" selection-start-line="0" selection-start-column="12" selection-end-line="0" selection-end-column="12" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/prova01/questao_04.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="184">
+          <caret line="12" column="41" lean-forward="false" selection-start-line="12" selection-start-column="41" selection-end-line="12" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/prova01/questao_03.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/prova01/questao_02.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="72">
+          <caret line="4" column="18" lean-forward="false" selection-start-line="4" selection-start-column="18" selection-end-line="4" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/prova01/questao_01.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="15" column="13" lean-forward="false" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="13" />
         </state>
       </provider>
     </entry>
