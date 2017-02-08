@@ -105,3 +105,6 @@ Portanto, working directory,index e repository são estados que o git utiliza pa
 working directory seria o lugar das modificações no arquivo;
 index seria o lugar dos arquivos selecionados;
 repository seria o estado final para o armazenamento dos arquivos.
+
+Nota: 2.0
+Logs e conceitos reportados corretamente.
