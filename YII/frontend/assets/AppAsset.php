@@ -16,6 +16,9 @@ class AppAsset extends AssetBundle
     ];
     public $js = [
     ];
+    public $img = [
+      'img/icomp.png',
+    ];
     public $depends = [
         'yii\web\YiiAsset',
         'yii\bootstrap\BootstrapAsset',

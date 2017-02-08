@@ -1,19 +1,29 @@
 <?php
 
 /* @var $this yii\web\View */
+use yii\helpers\Html;
 
 $this->title = 'My Yii Application';
 ?>
 <div class="site-index">
 
+
     <div class="jumbotron">
+        <?= Html::img('@web/img/icomp.png', ['width'=>'400']) ?>
+
+        <p class="lead">O Instituto de Computação (IComp),
+            antigo Departamento de Ciência da Computação (DCC),  é um instituto acadêmico que agrega
+            os professores da área de computação. Como todo instituto acadêmico o IComp atua no ensino,
+            pesquisa e extensão,além de desempenhar atividades administrativas.
+        </p>
+        <p><a class="btn btn-lg btn-success" href="#">Iniciar Jogo!</a></p>
+        <!--
         <h1>Congratulations!</h1>
-
         <p class="lead">You have successfully created your Yii-powered application.</p>
-
-        <p><a class="btn btn-lg btn-success" href="http://www.yiiframework.com">Get started with Yii</a></p>
+        <p><a class="btn btn-lg btn-success" href="http://www.yiiframework.com">Iniciar Jogo!</a></p>
+        -->
     </div>
-
+    <!--
     <div class="body-content">
 
         <div class="row">
@@ -47,7 +57,9 @@ $this->title = 'My Yii Application';
 
                 <p><a class="btn btn-default" href="http://www.yiiframework.com/extensions/">Yii Extensions &raquo;</a></p>
             </div>
+
         </div>
 
     </div>
+    -->
 </div>
